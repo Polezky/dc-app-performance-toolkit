@@ -3,9 +3,9 @@ column_name: "90% Line"
 runs:
   # fullPath should contain a full path to the directory with run results. E.g. /home/$USER/dc-app-performance-toolkit/jira/results/2019-08-06_17-41-08
   - runName: "without app"
-    fullPath: "/var/snap/amazon-ssm-agent/3776/dc-app-performance-toolkit/app/results/2021-04-18_10-07-26"
+    fullPath: "/var/snap/amazon-ssm-agent/3776/dc-app-performance-toolkit/app/results/reports/2021-04-18_10-07-26"
   - runName: "with app"
-    fullPath: "/var/snap/amazon-ssm-agent/3776/dc-app-performance-toolkit/app/results/2021-04-18_12-07-46"
+    fullPath: "/var/snap/amazon-ssm-agent/3776/dc-app-performance-toolkit/app/results/reports/2021-04-18_12-07-46"
 
 # Chart generation config
 index_col: "Action"
